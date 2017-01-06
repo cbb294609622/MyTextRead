@@ -3,4 +3,9 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="app_grey_backgound">#EDEDED</color><!--灰色背景-->
+    <color name="app_text_backgound">#667986</color><!--默认字体-->
+
+    <color name="app_toast_backgound">#667986</color><!--默认字体-->
 </resources>
